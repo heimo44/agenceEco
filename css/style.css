@@ -501,8 +501,15 @@ input[type="text"], textarea{
     .row3{
         display: flex;
     }
+    .column4{
+        flex-direction: column;
+    }
     .col-sm-12{
         width: 100% ;
+    }
+    .p-res{
+        padding-left: 0%;
+        padding-right: 0%;
     }
     .p-left2{
         padding-left: 115px;
